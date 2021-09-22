@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsAppTask</string>
+    <string name="source">يلا كورة</string>
+    <string name="published_at">الثلاثاء 21/9</string>
+    <string name="title">الاهلى بطل افريقيا</string>
+    <string name="search">Search</string>
+    <string name="search_query">Enter your search here...</string>
+    <string name="failed_to_connect">Failed to connect</string>
+    <string name="retry">Retry</string>
+</resources>
